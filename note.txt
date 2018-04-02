@@ -13,3 +13,6 @@ lt --port 3000 --subdomain remi
 transpilling will be done with Babel. We will write ES6 code.
 But maybe some platform do not have ES6 but ES5.
 Therefore we will transpille ES6 to ES5 with Babel
+
+for bundling we will use webpack
+to debug we will use sourcemaps
