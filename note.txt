@@ -1,2 +1,11 @@
 use node security platform to check for security issue in the package
 to check for a package, run nsp check in the project folder
+
+to share the work we will use localtunnel
+then start your application localy as usual
+sudo node buildScripts/srcServer.js
+then open a second terminal and run
+lt --port 3000
+pick the adress and that's it
+to customize the adress and subdomain run
+lt --port 3000 --subdomain remi
