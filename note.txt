@@ -16,3 +16,10 @@ Therefore we will transpille ES6 to ES5 with Babel
 
 for bundling we will use webpack
 to debug we will use sourcemaps
+
+for linting we will use ESlint
+to run it always, do npm
+run lint -- --watch
+and let it run in the console to have a live watching each time you save a file
+or type npm start
+or npm start -s (for simplified output)
