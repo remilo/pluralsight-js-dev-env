@@ -1,3 +1,5 @@
+got to https://github.com/coryhouse/javascript-development-environment
+
 use node security platform to check for security issue in the package
 to check for a package, run nsp check in the project folder
 
