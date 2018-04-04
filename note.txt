@@ -26,4 +26,4 @@ or npm start -s (for simplified output)
 
 for testing we will use mocha
 we will use chai for assertion library
-for continuous integration server we will use Travis and Appveyor
+for continuous integration server we will use Travis (Linux) and Appveyor (windows)
