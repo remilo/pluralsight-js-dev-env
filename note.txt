@@ -3,6 +3,8 @@ got to https://github.com/coryhouse/javascript-development-environment
 use node security platform to check for security issue in the package
 to check for a package, run nsp check in the project folder
 
+use express
+
 to share the work we will use localtunnel
 then start your application localy as usual
 sudo node buildScripts/srcServer.js
@@ -29,3 +31,8 @@ or npm start -s (for simplified output)
 for testing we will use mocha
 we will use chai for assertion library
 for continuous integration server we will use Travis (Linux) and Appveyor (windows)
+
+
+for http call we will use fetch
+json schema and schema faker
+
